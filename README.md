@@ -1,4 +1,4 @@
-## Welcome to My Profile 🗿🍷!
+## Bem Vindo(a) ao meu perfil 🗿🍷!
 
  <div>
    <a href="https://github.com/ThyagoRibeiro7">
