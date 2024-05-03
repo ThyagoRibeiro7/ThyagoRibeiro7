@@ -8,7 +8,7 @@
 
 - ✉ Para entrar em contato **thyagoribeiro7226@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Que bater um papo? Segue as Redes ☕:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thyago ribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thyago ribeiro" height="30" width="40" /></a>
 <a href="https://instagram.com/thyag01_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thyag01_" height="30" width="40" /></a>
