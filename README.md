@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thyagoribeiro07&label=Profile%20views&color=0e75b6&style=flat" alt="thyagoribeiro07" /> </p>
 
-- 👨‍💻 Desenvolvendo Meu Primeiro Projeto **PDZ | Projeto do Zero**
+- 👨‍💻 Desenvolvendo Meu Primeiro Projeto **PDZ | Projeto do Zero** <a href="https://projetodozero-843ss2rks-james-projects-53e54b87.vercel.app">Link do Projeto</a>
 
 - 👨‍🏫 Atualmente Aprendendo **HTML, CSS e JavaScript.**
 
