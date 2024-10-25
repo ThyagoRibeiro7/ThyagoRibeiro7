@@ -11,7 +11,6 @@
 <h3 align="left">Que bater um papo? Segue as Redes ☕:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thyago-ribeiro-7a76382ba/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thyago ribeiro" height="30" width="40" /></a>
-<a href="https://www.instagram.com/thyag01_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thyag01_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas que Utilizo:</h3>
