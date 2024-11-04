@@ -2,13 +2,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thyagoribeiro07&label=Profile%20views&color=0e75b6&style=flat" alt="thyagoribeiro07" /> </p>
 
-<div align='center'>
-- 👨‍💻 Desenvolvendo Meu Primeiro Projeto **PDZ | Projeto do Zero** <a href="https://projetodozero.vercel.app">Link do Projeto</a>
+ 👨‍🏫 Atualmente Aprendendo **CSS, JavaScript e React**
 
-- 👨‍🏫 Atualmente Aprendendo **HTML, CSS e JavaScript.**
-
-- ✉ Para entrar em contato **thyagoribeiro7226@gmail.com**
-</div>
+ ✉ Para entrar em contato **devthyagoribeiro@gmail.com**
 
 <h3 align="center">Que bater um papo? Segue as Redes ☕:</h3>
 <p align="center">
